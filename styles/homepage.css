@@ -1,0 +1,44 @@
+.homepage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.headshot {
+    height: 250px;
+    width: 250px;
+    border-radius: 125px;
+    object-fit: cover;
+    object-position: 0 -25px;
+    margin-top: 60px;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+.hello-message {
+    color: #4A6163;
+    font-size: 70px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.brief-description {
+    color: #4A6163;
+    font-size: 30px;
+    font-weight: 400;
+    width: 530px;
+    font-style: italic;
+    text-align: center;
+}
+
+.home-page-break {
+    height: 50px;
+}
+
+.about-page-break {
+    height: 50px;
+    background-color: #e3e5da;
+}

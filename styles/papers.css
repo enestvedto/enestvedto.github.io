@@ -1,0 +1,47 @@
+.papers-page-break {
+    height: 50px;
+    background-color: white;
+}
+
+.papers-container {
+    padding-top: 50px;
+    font-family: Roboto, Arial;
+    color: #4a6163;
+    padding-bottom: 50px;
+}
+
+.papers-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.papers-name {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.papers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ds2paper-link {
+    font-size: 24px;
+    color: #f17a7e;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.ds2paper-info {
+    margin-top: 6px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.ds2paper-link:hover {
+    text-decoration: underline;
+}

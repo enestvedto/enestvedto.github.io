@@ -1,0 +1,12 @@
+.logos {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.merrimack-logo {
+    margin-right: 70px;
+}

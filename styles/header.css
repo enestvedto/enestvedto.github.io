@@ -1,0 +1,54 @@
+.header {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #4a6163;
+    position: fixed;
+}
+
+.left-section {
+    display: flex;
+}
+
+.header-right {
+    flex-shrink: 0;
+}
+
+.header button {
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    background-color: #4a6163;
+    border: none;
+    height: 50px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    transition: color 0.25s;
+}
+
+.home-button {
+    margin-left: 20px;
+}
+
+.resume-link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.25s;
+}
+
+.nav-link:hover,
+.resume-link:hover {
+    color: black;
+}

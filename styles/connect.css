@@ -1,0 +1,52 @@
+.connect-page-break {
+    height: 50px;
+    background-color: #e3e5da;
+}
+
+.connect-container {
+    padding-top: 50px;
+    background-color: white;
+    color: #4A6163;
+}
+
+.connect-title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.connect-name {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.connect-descrip {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.contact-container {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #4A6163;
+    cursor: pointer;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+}
+
+.thankyou-img {
+    width: 500px;
+}
