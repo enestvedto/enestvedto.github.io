@@ -4,3 +4,5 @@ I taught myself HTML and CSS in 3 or 4 days and created this website to test my 
 web site from complete scratch. 
 
 I also created a github account and learned my way around the application. I used github pages to publish my site.
+
+Check it out at this link: https://enestvedto.github.io/
